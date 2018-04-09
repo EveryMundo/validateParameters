@@ -1,0 +1,11 @@
+{
+  "name": "validateparameter",
+  "version": "1.0.0",
+  "description": "validates a paramater dict and optionally corrects formatting errors",
+  "main": "example.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "neilgoldman305",
+  "license": "ISC"
+}
